@@ -1,0 +1,21 @@
+h1 {margin-left : 50px;
+line-height : 3;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;}
+
+p {margin-left : 50px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;}
+
+.youtube{margin-top: 100px;
+margin-left:100px;}
+
+.toolbar{margin-left : 50px;
+color : grey;
+font-family: Arial, Helvetica, sans-serif;
+font-variant: small-caps;
+font-weight: 1000;}
+
+.read{color : grey;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;}
