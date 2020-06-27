@@ -10,14 +10,14 @@ Here, \<p> is opening tag, Hello is the content and \</p> is the closing tag. Co
 <h5> To add more videos - </h5>
 \<iframe> \<\iframe> - this tag is used to add video content in the page.
 
-Example:
+Example:<br>
 \<iframe width="600" height="200" src="https://www.youtube.com/embed/7xQ0V74Sjcc" frameborder="0" allowfullscreen> \</iframe><br>
-Adds a video content to the page. Src attribute- contains link to the video.
+Adds a video content to the page, src attribute- contains link to the video.
 
 <h5> To add links in the webpage - </h5>
 \<a> \</a> - this tag is used to link from one page to another. 
 
-Example:
+Example:<br>
 \<a href="https://www.w3schools.com"> Click on this link \</a><br>
 Directs you to the link mentioned in “href” attribute when clicked on it. To link a page/file present in current working directory, paste the path of the file that you want to link in “href” attribute.
 
@@ -27,6 +27,6 @@ Here download attribute specifies that target will be downloaded when clicked on
 <h5>To add a paragraph or description about anything - </h5>
 \<p> \</p> - this tag is used to define a paragraph.
 
-Example:
-\<p> This is some text in a paragraph. \</p>
+Example:<br>
+\<p> This is some text in a paragraph. \</p><br>
 Adds a paragraph in the webpage. In this case, inserts “This is some text in a paragraph.” on the webpage.
