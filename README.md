@@ -25,7 +25,7 @@ Directs you to the link mentioned in “href” attribute when clicked on it. To
 Here download attribute specifies that target will be downloaded when clicked on it.
 
 <h5>To add a paragraph or description about anything - </h5>
-\<p> \</p> - this tag is used to define a paragraph.<br>
+\<p> Hello \</p> - this tag is used to define a paragraph.<br>
 
 Example:<br>
 \<p> This is some text in a paragraph. \</p><br>
