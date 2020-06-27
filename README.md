@@ -4,7 +4,7 @@
 
 Tags in html are keywords that describe how the content on the webpage should be formatted and displayed. They contain three parts: opening, content and closing tags. 
 Example:
-<!-- <p> Hello </p> -->
+\<p> Hello \</p>
 Here, <!-- <p> --> is opening tag, Hello is the content and <!-- </p> -->  is the closing tag. Content can be empty(optional).
 
 <h5> To add more videos - </h5>
