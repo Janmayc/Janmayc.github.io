@@ -15,8 +15,8 @@ Example:<br>
 Adds a video content to the page, src attribute- contains link to the video.
 
 <h5> To add links in the webpage - </h5>
-a - this tag is used to link from one page to another.
-<br><br>
+a - this tag is used to link from one page to another.<br>
+
 Example:<br>
 \<a href="https://www.w3schools.com"> Click on this link \</a><br>
 Directs you to the link mentioned in “href” attribute when clicked on it. To link a page/file present in current working directory, paste the path of the file that you want to link in “href” attribute.
